@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmood Almarzooq
 =========================================================================================================================================
 
-Full Stack Developer
+AI Engineer | Full Stack Developer
 --------------------
 
-Senior Computer Science student at the University of Bahrain | Student at Reboot 01 Coding Institute | AWS Certified
 
 * 🌍  I'm based in Bahrain
 * ✉️  You can contact me at [almarzo.mahmood@gmail.com](mailto:almarzo.mahmood@gmail.com)
